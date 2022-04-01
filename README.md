@@ -1,2 +1,8 @@
 # uc3-atividades-01
-Atividade 01 das aulas de git/github
+**Este repositório é uma atividade da aula de git/github.**
+
+*Instituição: Faculdade Senac*
+
+*Professor: Gabriel* 
+
+*Aluna: Renata Tanowski Soares*
